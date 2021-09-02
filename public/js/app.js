@@ -1,4 +1,4 @@
-// Fetch API is exclusive for the browser. Doesnt exist on nodejs.
+// Fetch API is exclusive for the browser. Doesnt exist on nodejs
 
 const weatherForm = document.querySelector('form');
 const search = document.querySelector('input');
